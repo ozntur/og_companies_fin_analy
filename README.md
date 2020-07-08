@@ -20,3 +20,6 @@ PART 2: (Not finished)
 
 Reference:
 https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7
+
+
+The above (everything in this repository) references  an opinion and is for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.
