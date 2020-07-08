@@ -1,4 +1,4 @@
-# og_companies_fin_analy.
+# og_companies_fin_analy. - not finished yet
 A short code to analyse a few oil &amp; gas companies - python visualization (matplotlib, plotly, nice interactive graphs!)
 
 The analysis is divided into two parts as PART1 and PART2, please see jupyter notebooks.
