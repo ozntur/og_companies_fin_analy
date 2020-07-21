@@ -9,7 +9,7 @@ PART 1:
 - Correlation Analysis, plotting Kernel Density Estimation and Correlation Matrix
 - Plotting Risk, Expected Return graph
 
-PART 2: (Not finished)
+PART 2:
 - Calculation of High/Low% and %change
 - Data cleaning
 - Model Generation
